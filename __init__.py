@@ -1,1 +1,1 @@
-from core.api_calls import *
+from .core.api_calls import *
